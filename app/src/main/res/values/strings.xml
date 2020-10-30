@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="text_hello_world">Hallo Progmob 2020 Mantull</string>
+    <string name="_75_gram">75 gram</string>
+    <string name="string_75_gram">75 gram</string>
+    <string name="string_string_75_gram" />
+</resources>
